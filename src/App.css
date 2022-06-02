@@ -317,3 +317,13 @@ a {
 .border-dash:hover {
   border-color: #6b7280 !important;
 }
+.upload-padding {
+  padding-inline: 15px;
+  padding-block: 11px;
+}
+.folder-padding {
+  padding-top: 15px;
+  padding-bottom: 11px;
+  padding-left: 13px;
+  padding-right: 9px;
+}
